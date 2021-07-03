@@ -1,2 +1,2 @@
 # pixel-pet
-An virtual pet based into tamagotchis
+An virtual pet based in tamagotchis using pygame
